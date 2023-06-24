@@ -10,7 +10,3 @@ Parts 8-14 belong to the **Advanced Course in Programming** section.
 
 I will add dates when I finish each of the two courses.
 
-## About me
-
-My [Discord](https://discordapp.com/users/540832307133546496).
-
