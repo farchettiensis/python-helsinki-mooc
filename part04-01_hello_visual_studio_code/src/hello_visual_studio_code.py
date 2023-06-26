@@ -3,7 +3,7 @@ editor = ""
 
 while True:
     editor = input("Editor: ").lower()
-    if editor == "word":
+    if editor in ("word", "notepad"):
         print("awful")
     elif editor == "visual studio code":
         print("an excellent choice!")
